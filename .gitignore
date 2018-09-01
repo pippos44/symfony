@@ -15,6 +15,7 @@
 /.web-server-pid
 ###< symfony/web-server-bundle ###
 
-###> .idea/ ###
-/.idea/
-###< .idea/ ###
+###> JetBeans ###
+.idea/
+*.iml
+###< JetBeans ###
